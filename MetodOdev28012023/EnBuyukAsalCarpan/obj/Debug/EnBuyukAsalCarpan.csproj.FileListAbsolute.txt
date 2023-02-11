@@ -1,0 +1,7 @@
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\EnBuyukAsalCarpan\bin\Debug\EnBuyukAsalCarpan.exe.config
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\EnBuyukAsalCarpan\bin\Debug\EnBuyukAsalCarpan.exe
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\EnBuyukAsalCarpan\bin\Debug\EnBuyukAsalCarpan.pdb
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\EnBuyukAsalCarpan\obj\Debug\EnBuyukAsalCarpan.csproj.AssemblyReference.cache
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\EnBuyukAsalCarpan\obj\Debug\EnBuyukAsalCarpan.csproj.CoreCompileInputs.cache
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\EnBuyukAsalCarpan\obj\Debug\EnBuyukAsalCarpan.exe
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\EnBuyukAsalCarpan\obj\Debug\EnBuyukAsalCarpan.pdb

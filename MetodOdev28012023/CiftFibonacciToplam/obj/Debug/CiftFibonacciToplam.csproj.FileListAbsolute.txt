@@ -1,0 +1,7 @@
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\CiftFibonacciToplam\bin\Debug\CiftFibonacciToplam.exe.config
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\CiftFibonacciToplam\bin\Debug\CiftFibonacciToplam.exe
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\CiftFibonacciToplam\bin\Debug\CiftFibonacciToplam.pdb
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\CiftFibonacciToplam\obj\Debug\CiftFibonacciToplam.csproj.CoreCompileInputs.cache
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\CiftFibonacciToplam\obj\Debug\CiftFibonacciToplam.exe
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\CiftFibonacciToplam\obj\Debug\CiftFibonacciToplam.pdb
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\CiftFibonacciToplam\obj\Debug\CiftFibonacciToplam.csproj.AssemblyReference.cache

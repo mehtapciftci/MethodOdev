@@ -1,0 +1,7 @@
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\PolindromeUcBasamak\bin\Debug\PolindromeUcBasamak.exe.config
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\PolindromeUcBasamak\bin\Debug\PolindromeUcBasamak.exe
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\PolindromeUcBasamak\bin\Debug\PolindromeUcBasamak.pdb
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\PolindromeUcBasamak\obj\Debug\PolindromeUcBasamak.csproj.AssemblyReference.cache
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\PolindromeUcBasamak\obj\Debug\PolindromeUcBasamak.csproj.CoreCompileInputs.cache
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\PolindromeUcBasamak\obj\Debug\PolindromeUcBasamak.exe
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\PolindromeUcBasamak\obj\Debug\PolindromeUcBasamak.pdb

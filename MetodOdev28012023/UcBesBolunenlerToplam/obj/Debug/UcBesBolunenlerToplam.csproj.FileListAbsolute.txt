@@ -1,0 +1,7 @@
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\UcBesBolunenlerToplam\bin\Debug\UcBesBolunenlerToplam.exe.config
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\UcBesBolunenlerToplam\bin\Debug\UcBesBolunenlerToplam.exe
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\UcBesBolunenlerToplam\bin\Debug\UcBesBolunenlerToplam.pdb
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\UcBesBolunenlerToplam\obj\Debug\UcBesBolunenlerToplam.csproj.AssemblyReference.cache
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\UcBesBolunenlerToplam\obj\Debug\UcBesBolunenlerToplam.csproj.CoreCompileInputs.cache
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\UcBesBolunenlerToplam\obj\Debug\UcBesBolunenlerToplam.exe
+C:\Users\AtakanBektaş\source\repos\MetodOdev28012023\UcBesBolunenlerToplam\obj\Debug\UcBesBolunenlerToplam.pdb
